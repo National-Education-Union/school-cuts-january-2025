@@ -73,6 +73,7 @@ There is remarkably little variation in funding between LAs. All LAs face real c
 ## Long run trends in core mainstream school funding
 This chart shows per pupil funding indexed against schools’ costs. We have assumed that the Pupil Premium will increase by 2.4%, slightly more than the rise in the NFF.
 It is also worth noting that school funding will be at its lowest rate since at least 2010. 
+
 <img src="https://public.flourish.studio/visualisation/21066483/thumbnail" width="50%" alt="chart visualization" /></div><br>
 [Interactive chart](https://public.flourish.studio/visualisation/21066483/)
 
