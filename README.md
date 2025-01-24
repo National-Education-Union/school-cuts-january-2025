@@ -65,8 +65,7 @@ To fully fund pay awards for teachers and support staff teaching primary and sec
  
 ## Variation by local authority
 There is remarkably little variation in funding between LAs. All LAs face real cuts. The worst hit LA, Hackney, faces cuts of 1.8% per pupil and the LA that has fared the best, Stockport, faces 0.5% per pupil.
-
-
+[LA Map](https://github.com/National-Education-Union/school-cuts-january-2025/blob/main/la_map.html)
 
 Long run trends in core mainstream school funding
 This chart shows per pupil funding indexed against schools’ costs. We have assumed that the Pupil Premium will increase by 2.4%, slightly more than the rise in the NFF.
